@@ -1,0 +1,12 @@
+.search-filters {
+    display: flex;
+    color: #fff;
+
+    p {
+        align-self: center;
+        margin: 0;
+    }
+    * {
+        text-transform: uppercase;
+    }
+}
